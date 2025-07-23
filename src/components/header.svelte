@@ -91,7 +91,7 @@
                 >Join us</a
             >
             <a
-                href="https://donate.stripe.com/cN28znbeF8QMfBe001"
+                href="https://givebutter.com/NSBA_Donate"
                 class="font-semibold leading-6 text-white bg-green-700 py-3 px-4 rounded-tr-lg"
                 >Donate to NSBA</a
             >
@@ -152,7 +152,7 @@
                                 >Join us</a
                             >
                             <a
-                                href="https://donate.stripe.com/cN28znbeF8QMfBe001"
+                                href="https://givebutter.com/NSBA_Donate"
                                 class="rounded-tr-lg bg-green-700 px-6 py-4 text-md font-semibold text-white shadow-sm hover:bg-green-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-600"
                                 >Donate to NSBA</a
                             >
