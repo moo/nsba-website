@@ -170,7 +170,7 @@
         <p class="text-sm leading-5 text-white text-center">
             <a href="#events">
                 <strong class="font-semibold ss-04"
-                    >🔔 September events, Advocacy, and Pedal & Plate dinner!</strong
+                    >🔔 Successful Pedal & Plate dinner! and November Meeting announced</strong
                 ><svg
                     viewBox="0 0 2 2"
                     class="mx-2 inline h-0.5 w-0.5 fill-current"
